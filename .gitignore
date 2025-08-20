@@ -1,5 +1,2 @@
 dist
-!dist/.gitkeep
-!dist/public/
-
 node_modules
