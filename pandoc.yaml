@@ -3,6 +3,8 @@ to: html5
 data-dir: .
 template: default.html
 standalone: true
+filters:
+  - code-block.js
 metadata-file: metadata.yaml
 css:
-  - https://cdn.jsdelivr.net/npm/@exampledev/new.css@1.1.2/new.min.css
+  - /public/new.min.css
